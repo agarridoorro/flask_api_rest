@@ -1,0 +1,11 @@
+#Valores contestantes
+ENV_LOCAL = 'local'
+ENV_PRODUCTION = 'production'
+
+#Entradas de parámetros de configuracion
+CFG_BASE_DIR = 'BASE_DIR'
+CFG_APP_ENV = 'APP_ENV'
+CFG_BASE_PATH = 'BASE_PATH'
+CFG_BASE_LOG = 'BASE_LOG'
+CFG_UPLOAD_FOLDER = 'UPLOAD_FOLDER'
+CFG_ALLOWED_EXTENSIONS = 'ALLOWED_EXTENSIONS'
